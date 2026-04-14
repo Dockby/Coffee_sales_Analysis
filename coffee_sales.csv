@@ -1,0 +1,53 @@
+order_id,date,drink_type,size,price,quantity,barista_id,payment_method
+1,2024-01-01,Espresso,Small,3.5,1,B01,Cash
+2,2024-01-01,Latte,Medium,5.0,2,B02,Card
+3,2024-01-01,Cold Brew,Large,6.0,1,B01,Card
+4,2024-01-02,Latte,Small,4.5,1,B03,Cash
+5,2024-01-02,Espresso,Medium,,1,B02,Card
+6,2024-01-02,Cappuccino,Large,6.5,1,B01,Cash
+7,2024-01-03,Cold Brew,Small,4.0,2,B03,Card
+8,2024-01-03,Latte,Large,6.0,1,,Card
+9,2024-01-03,Espresso,Small,3.5,1,B02,Cash
+10,2024-01-04,Cappuccino,Medium,5.5,1,B01,Card
+11,2024-01-04,Latte,Medium,5.0,3,B03,Cash
+12,2024-01-04,Cold Brew,Large,6.0,1,B02,Card
+13,2024-01-05,Espresso,Small,3.5,1,B01,Cash
+14,2024-01-05,Latte,Small,4.5,2,B03,Card
+15,2024-01-05,Cappuccino,Large,6.5,1,B02,Cash
+16,2024-01-06,Cold Brew,Medium,5.0,1,B01,Card
+17,2024-01-06,Espresso,Large,4.5,1,B03,Cash
+18,2024-01-06,Latte,Medium,5.0,2,,Card
+19,2024-01-07,Cappuccino,Small,4.0,1,B02,Cash
+20,2024-01-07,Cold Brew,Large,6.0,1,B01,Card
+21,2024-01-07,Espresso,Medium,4.0,2,B03,Card
+22,2024-01-08,Latte,Large,6.0,1,B02,Cash
+23,2024-01-08,Cappuccino,Medium,5.5,1,B01,Card
+24,2024-01-08,Cold Brew,Small,4.0,3,B03,Cash
+25,2024-01-09,Espresso,Small,3.5,1,B02,Card
+26,2024-01-09,Latte,Medium,5.0,2,B01,Cash
+27,2024-01-09,Cappuccino,Large,,1,B03,Card
+28,2024-01-10,Cold Brew,Medium,5.0,1,B02,Card
+29,2024-01-10,Espresso,Large,4.5,1,B01,Cash
+30,2024-01-10,Latte,Small,4.5,2,B03,Card
+31,2024-01-11,Cappuccino,Small,4.0,1,B02,Cash
+32,2024-01-11,Cold Brew,Large,6.0,1,B01,Card
+33,2024-01-11,Espresso,Medium,4.0,2,B03,Cash
+34,2024-01-12,Latte,Large,6.0,1,B02,Card
+35,2024-01-12,Cappuccino,Medium,5.5,3,B01,Cash
+36,2024-01-12,Cold Brew,Small,4.0,1,B03,Card
+37,2024-01-13,Espresso,Small,3.5,1,B02,Cash
+38,2024-01-13,Latte,Medium,5.0,2,B01,Card
+39,2024-01-13,Cappuccino,Large,6.5,1,,Cash
+40,2024-01-14,Cold Brew,Medium,5.0,1,B03,Card
+41,2024-01-14,Espresso,Large,4.5,2,B02,Cash
+42,2024-01-14,Latte,Small,4.5,1,B01,Card
+43,2024-01-15,Cappuccino,Small,4.0,1,B03,Cash
+44,2024-01-15,Cold Brew,Large,6.0,2,B02,Card
+45,2024-01-15,Espresso,Medium,4.0,1,B01,Cash
+46,2024-01-15,Latte,Large,6.0,1,B03,Card
+47,2024-01-16,Cappuccino,Medium,5.5,1,B02,Cash
+48,2024-01-16,Cold Brew,Small,4.0,1,B01,Card
+49,2024-01-16,Espresso,Small,3.5,2,B03,Cash
+50,2024-01-16,Latte,Medium,5.0,1,B02,Card
+3,2024-01-01,Cold Brew,Large,6.0,1,B01,Card
+11,2024-01-04,Latte,Medium,5.0,3,B03,Cash
